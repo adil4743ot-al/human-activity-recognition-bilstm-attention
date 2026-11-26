@@ -1,0 +1,10 @@
+test accuracy 0.9199
+confusion matrix (rows true, columns predicted):
+[[452  27  17   0   0   0]
+ [  8 463   0   0   0   0]
+ [  3   6 411   0   0   0]
+ [  0   1   0 421  69   0]
+ [  0   0   0  78 454   0]
+ [  0   0   0   0  27 510]]
+per-class accuracy [0.911 0.983 0.979 0.857 0.853 0.95 ]
+mean max alpha per activity [0.2247 0.2591 0.2236 0.0202 0.0301 0.0165] (flat attention = 0.0078)
